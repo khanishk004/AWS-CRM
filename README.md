@@ -16,7 +16,8 @@ This is a Cloud-Based Customer Relationship Management (CRM) System built using 
 
 ## Demo Video
 Check out the video tutorial for this project:
-[![Watch the Video](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=YourVideoID)
+https://youtu.be/MKF6kOBKVco
+[![Watch the Video](https://img.youtube.com/vi/MKF6kOBKVco/0.jpg)](https://www.youtube.com/watch?v=MKF6kOBKVco)
 
 ## Future Enhancements
 - Add user authentication with AWS Cognito.
